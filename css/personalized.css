@@ -1,0 +1,16 @@
+/*Personalized CSS by Jorge Nazario
+Methods for changing CSS:
+1. Selecting all the tags
+2. Selecting a specific ID
+3. Selecting by class
+*/
+
+#newSectionHeader {
+	color: #009900;
+	
+}
+
+.section-bg-black {
+	background-color: black !important;
+	color: red;
+}
